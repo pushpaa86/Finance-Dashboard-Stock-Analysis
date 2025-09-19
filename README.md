@@ -46,7 +46,8 @@ It covers data ingestion, financial KPIs calculation, and interactive dashboard 
 ### **3. Risk & Returns Page**  
 -  Max Drawdown, SMA 50 vs SMA 200 by year  
 - Screenshot:  
-  ![Risk ![Risk & Returns](Risk_Returns.png) Returns.png)
+  ![Risk & Returns](Risk_Returns.png)
+
 
 
 ---
