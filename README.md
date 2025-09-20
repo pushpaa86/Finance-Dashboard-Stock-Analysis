@@ -43,13 +43,6 @@ It covers data ingestion, financial KPIs calculation, and interactive dashboard 
 - Screenshot:  
   ![Trend Analysis](Trend%20Analysis.png)
 
-### **3. Risk & Returns Page**  
--  Max Drawdown, SMA 50 vs SMA 200 by year  
-- Screenshot:  
-  ![Risk & Returns](Risk&Returns.png)
-
-
-
 ---
 
 ## 🔹 Repository Structure  
